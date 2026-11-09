@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'imu_example'
+package_name = 'ARP-imu-sensor-example'
 
 setup(
     name=package_name,
